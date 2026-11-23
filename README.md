@@ -3,7 +3,7 @@ _The Plymouth Sensory Imagery Questionnaire_
 
 This questionnaire measures the vividness of mental imagery in seven ‘modalities’. It is an updated version of Sheehan’s (1967) 35 item subset of the classic 1909 Questionnaire upon Mental Imagery by Betts, which consisted of 150 items (many of which are now culturally or technologically outdated). The questionnaire can be given in a 35 item format (5 items in each modality) or a 21 item format (3 items in each modality).
 
-This archive includes the data reported in the original paper along with an R script to reproduce the results. You can find these at the top level, along with other versions in the Data folder.
+This archive includes the data reported in the original paper along with an R script to read the data and reproduce some of the results. You can find these at the top level, along with other versions in the Data folder.
 
 The questionnaire is freely available for you to use in your own research. Several teams have published translations, and you can find these in the Qustionnaires folder. These are also free for you to use, provided that you cite and attribute appropriately. If you translate it into another language, please do send us a copy to add to this archive.
 
